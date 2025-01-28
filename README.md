@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anyuthing really. I enjoy learning more and practice makes perfect.
 - 📫 How to reach me ...
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... 34 year old Maint Mechanic wanting to switch to this within 4 years.
+- ⚡ Fun fact: ... 34 year old who just learned what coding actually is and does.
 
 <!---
 Jay91-a/Jay91-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
